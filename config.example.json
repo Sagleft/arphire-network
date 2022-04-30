@@ -1,0 +1,7 @@
+{
+    "front": {
+        "port": "5040",
+        "version": "1.0.0",
+        "debug": true
+    }
+}

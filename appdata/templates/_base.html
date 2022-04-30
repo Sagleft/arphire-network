@@ -1,0 +1,22 @@
+{{define "head"}}
+<head>
+    <meta charset="utf-8" />
+    <title>Aphire Network</title>
+
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="/assets/css/uikit.min.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/custom.css?v={{ .version }}" />
+
+    <link rel="icon" type="image/png" href="/assets/img/favicon.png?v=1.1" />
+</head>
+{{end}}
+
+{{define "scripts"}}
+<script src="/assets/js/uikit.min.js"></script>
+<script src="/assets/js/uikit-icons.min.js"></script>
+{{end}}
+
+{{ define "button-example" }}
+<a href="/showcase" class="uk-button uk-button-primary uk-border-rounded">Showcase</a>
+{{end}}
