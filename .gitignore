@@ -18,6 +18,7 @@
 config.json
 arphire
 emercoind
+daemon.sh
 
 # blockchain
 appdata/blockchain/**
