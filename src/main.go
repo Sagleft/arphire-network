@@ -36,6 +36,8 @@ func main() {
 
 	err := checkErrors(
 		app.parseConfig,
+		app.runDaemon,
+		app.blockchainConnect,
 		app.setupFront,
 		app.openFront,
 	)
