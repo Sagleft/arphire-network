@@ -17,3 +17,7 @@
 # Config
 config.json
 arphire
+emercoind
+
+# blockchain
+appdata/blockchain/**
