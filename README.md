@@ -13,7 +13,7 @@ Arphire Network - это альтернативный сценарий разв�
 
 ---
 
-Подпишись, чтобы следить за обновлениями [![image](https://badges.aleen42.com/src/telegram.svg)](https://t.me/+lUBIs7H_JDc1Mjcy)
+Подпишись, чтобы следить за обновлениями [![image](https://badges.aleen42.com/src/telegram.svg)](https://t.me/+IH4oChFYJtI5ZTUy)
 
 ---
 
